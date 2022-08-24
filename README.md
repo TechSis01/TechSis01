@@ -8,7 +8,7 @@ I am a Frontend developer very passionate about developing amazing User Interfac
 
 *   🌍  I'm based in Nigeria
 *   ✉️  You can contact me at [queendolineakpan11@gmail.com](mailto:queendolineakpan11@gmail.com)
-*   🧠  I'm learning Javascript , CSS tailwind
+*   🧠  I'm learning React, Javascript , CSS tailwind
 *   ⚡  I love to read books and workout in my leisure time as this helps me mentally and psychologically<a href="https://www.twitter.com/QueenAkpan_" target="_blank" rel="noreferrer"><img
                   src="https://img.shields.io/twitter/follow/QueenAkpan_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
                 /></a>### Skills<p align="left">
