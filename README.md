@@ -10,7 +10,7 @@ I am very  passionate about developing amazing User Interfaces and User Experien
 - 🔭 I’m currently working on a Task Management Project using React, TailwindCSS and Appwrite   
   
 
-- 🌱 I’m currently learning React.js 
+- 🌱 I’m currently learning Next.js 
   
 
 - ❓ Ask me about anything related to Frontend development and Technical writing  
