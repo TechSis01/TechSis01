@@ -10,7 +10,7 @@ I am very  passionate about developing amazing User Interfaces and User Experien
 - 🔭 I’m currently working on an E-commerce website using Nextjs,Firebase,Redux and Tailwind CSS  
   
 
-- 🌱 I’m currently learning Next.js 
+- 🌱 I’m currently learning TypeScript
   
 
 - ❓ Ask me about anything related to Frontend development and Technical writing  
