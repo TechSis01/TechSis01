@@ -7,7 +7,7 @@
 I am very  passionate about developing amazing User Interfaces and User Experiences . I've had Solid training from Google developers scholarship course on Front-end development,I've gathered alot of experience building personal projects and collaborating with my colleagues in building problem solving projects for clients. Being a Technical writer has been a plus to my career as a frontend developer cause in that way I am able  to learn indepthly about topics related to my field. </div>  
   
 
-- 🔭 I’m currently working on an E-commerce website using Nextjs,Firebase,Redux and Tailwind CSS  
+- 🔭I am currently working on a React UI Component library with Storybook.
   
 
 - 🌱 I’m currently learning TypeScript
